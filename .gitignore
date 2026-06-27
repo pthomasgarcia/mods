@@ -1,5 +1,15 @@
+# --- Compiled Binaries & Build Outputs ---
 mods
-.envrc
+dist/
+.config/
+
+# --- Documentation & Generated Assets ---
 completions/
 manpages/
-dist/
+
+# --- Environment & Configuration Files ---
+.env
+.envrc
+
+# --- AI & Development Tools ---
+.aider*
